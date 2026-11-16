@@ -17,3 +17,9 @@ Summarise all key concepts from these SOFT2412 weekly materials. Organise the co
 ```
 
 **Note:** These materials are sourced from Ed Discussion. AI-generated summaries should be cross-checked against the original documents for accuracy and completeness.
+
+📘 INFO1112 – Weekly Quizzes
+
+The INFO1112 weekly quiz questions have been compiled into a single PDF for convenient revision and exam preparation.
+
+📄 INFO1112 Weekly Quiz Questions (Flex's Version)
