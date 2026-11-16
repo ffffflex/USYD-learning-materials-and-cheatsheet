@@ -20,8 +20,6 @@ Summarise all key concepts from these SOFT2412 weekly materials. Organise the co
 
 📘 INFO1112 – Weekly Quizzes
 
-The INFO1112 weekly quiz questions have been compiled into a single PDF for convenient revision and exam preparation.
-
 📄[ INFO1112 Weekly Quiz Questions (Flex's Version)](https://github.com/ffffflex/USYD-learning-materials-and-cheatsheet/blob/main/INFO1112/INFO1112_Weekly_Quiz_Questions(Flex.s%20Version).pdf)
 
 
