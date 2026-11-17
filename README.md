@@ -18,9 +18,7 @@ Summarise all key concepts from these SOFT2412 weekly materials. Organise the co
 
 **Note:** These materials are sourced from Ed Discussion. AI-generated summaries should be cross-checked against the original documents for accuracy and completeness.
 
-📘 INFO1112 – Weekly Quizzes
+📘 INFO1112 – Weekly Quizzes[ INFO1112 Weekly Quiz Questions (Flex's Version)](https://github.com/ffffflex/USYD-learning-materials-and-cheatsheet/blob/main/INFO1112/INFO1112_Weekly_Quiz_Questions(Flex.s%20Version).pdf)
 
-📄[ INFO1112 Weekly Quiz Questions (Flex's Version)](https://github.com/ffffflex/USYD-learning-materials-and-cheatsheet/blob/main/INFO1112/INFO1112_Weekly_Quiz_Questions(Flex.s%20Version).pdf)
-
-
+📘 COMP2022 – Weekly Quizzes (https://github.com/ffffflex/USYD-learning-materials-and-cheatsheet/blob/main/COMP2022/COMP2022_Weeks_01_to_13_Questions(Flex's%20Version).pdf)
 KEEP UPDATING...
