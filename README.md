@@ -38,6 +38,24 @@ A collection of weekly quiz questions for INFO1112, organised for revision and e
 
 A collection of COMP2022 questions covering Weeks 1–13, designed for exam preparation and self-assessment.
 
+## 📑 Completed Cheatsheets
+
+The following cheatsheets are available for quick revision and final exam preparation.
+
+### 📘 INFO1112 – Cheatsheet
+
+📄 [**INFO1112 Cheatsheet (Flex's Version)**](./INFO1112/INFO1112_Cheatsheet%28Flex.s%20Version%29.pdf)
+
+### 📘 COMP2022 – Cheatsheet
+
+📄 [**COMP2022 Cheatsheet (Flex's Version)**](./COMP2022/COMP2022_Cheatsheet%28Flex%27s%20Version%29.pdf)
+
+These cheatsheets are designed to:
+- Summarise important concepts and definitions.
+- Provide quick references to key formulas and methods.
+- Support efficient revision before exams.
+
+**Note:** Always refer to the official course materials to verify accuracy and ensure complete topic coverage.
 ---
 
 ## 🚧 Updates
